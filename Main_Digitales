@@ -1,0 +1,5 @@
+module inversor( // definicion module
+    input a;  // def innput
+    output y); // def output
+    assign y= ~a; //logic
+endmodule
